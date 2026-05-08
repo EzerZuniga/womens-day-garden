@@ -81,6 +81,9 @@ npm install
 
 # 3) Iniciar servidor de desarrollo
 npm run dev
+```
+---
+
 La aplicación estará disponible por defecto en `http://localhost:5173`.
 
 ---
@@ -115,6 +118,7 @@ womens-day-garden/
 ├── vercel.json              # Configuración de despliegue en Vercel
 ├── netlify.toml             # Configuración de despliegue en Netlify
 └── README.md
+```
 ---
 
 ## 🌐 Despliegue
