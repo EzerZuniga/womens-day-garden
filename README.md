@@ -1,4 +1,4 @@
-# 🌸 Jardín Digital de Flores - Día de la Mujer
+# Jardín Digital de Flores - Día de la Mujer
 
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -13,7 +13,7 @@ Construido con React y animado con Framer Motion, desplegado de forma continua e
 
 ---
 
-## 🌺 Tabla de contenidos
+## Tabla de contenidos
 
 1. [Características clave](#-características-clave)
 2. [Stack tecnológico](#-stack-tecnológico)
@@ -28,7 +28,7 @@ Construido con React y animado con Framer Motion, desplegado de forma continua e
 
 ---
 
-## ✨ Características clave
+## Características clave
 
 - **Pantalla de bienvenida personalizada**: introducción en español con el nombre de la homenajeada.
 - **Jardín animado con flores interactivas**: cada flor responde al clic mostrando un mensaje único.
@@ -39,7 +39,7 @@ Construido con React y animado con Framer Motion, desplegado de forma continua e
 
 ---
 
-## 🛠️ Stack tecnológico
+## Stack tecnológico
 
 | Capa | Tecnologías | Descripción |
 | --- | --- | --- |
@@ -51,7 +51,7 @@ Construido con React y animado con Framer Motion, desplegado de forma continua e
 
 ---
 
-## 🌸 Flujo de la experiencia
+## Flujo de la experiencia
 
 1. **Pantalla de inicio**: el usuario es recibido con una dedicatoria personalizada.
 2. **Exploración del jardín**: se muestra el jardín digital con flores animadas.
@@ -61,7 +61,7 @@ Construido con React y animado con Framer Motion, desplegado de forma continua e
 
 ---
 
-## 🚀 Comenzar
+## Comenzar
 
 ### Requisitos previos
 
@@ -88,7 +88,7 @@ La aplicación estará disponible por defecto en `http://localhost:5173`.
 
 ---
 
-## 📟 Scripts disponibles
+## Scripts disponibles
 
 ### npm
 
@@ -100,7 +100,7 @@ La aplicación estará disponible por defecto en `http://localhost:5173`.
 
 ---
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 
 ```text
 womens-day-garden/
@@ -121,9 +121,9 @@ womens-day-garden/
 ```
 ---
 
-## 🌐 Despliegue
+## Despliegue
 
-### ▲ Vercel
+### Vercel
 1. El repositorio incluye un archivo `vercel.json` listo.
 2. Al importar el proyecto, Vercel detecta Vite automáticamente.
 3. **Configuración por defecto:**
@@ -131,7 +131,7 @@ womens-day-garden/
    * **Build Command:** `npm run build`
    * **Output Directory:** `dist`
 
-### 🔷 Netlify
+### Netlify
 1. El repositorio incluye un archivo `netlify.toml` listo.
 2. Al conectar el repositorio, Netlify usa esta configuración:
    * **Build command:** `npm run build`
@@ -141,7 +141,7 @@ Ambos servicios despliegan automáticamente con cada push a la rama `main`.
 
 ---
 
-## 💡 Buenas prácticas
+## Buenas prácticas
 
 - Ejecuta `npm run build` localmente antes de hacer push para verificar que no haya errores.
 - Mantén los estilos organizados en la carpeta `src/styles/` usando la metodología modular de SCSS.
@@ -150,7 +150,7 @@ Ambos servicios despliegan automáticamente con cada push a la rama `main`.
 
 ---
 
-## 👩‍💻 Contribuidores
+## Contribuidores
 
 | Nombre | Rol |
 | --- | --- |
@@ -159,11 +159,11 @@ Ambos servicios despliegan automáticamente con cada push a la rama `main`.
 
 ---
 
-## 📄 Licencia
+## Licencia
 
 Este proyecto se distribuye bajo licencia **MIT**.  
 Consulta [LICENSE](./LICENSE) para más detalles.
 
 ---
 
-*🌸 Creado con dedicación para celebrar el 8M.*
+*Creado con dedicación para celebrar el 8M.*
